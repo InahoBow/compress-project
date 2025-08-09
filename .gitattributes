@@ -1,0 +1,19 @@
+*.sh text eol=lf
+*.bash text eol=lf
+
+Makefile text eol=lf
+*/Makefile text eol=lf
+
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+*.c text
+*.h text
+
+* text=auto
+
+*.png binary
+*.jpg binary
+*.zip binary
+*.pdf binary
